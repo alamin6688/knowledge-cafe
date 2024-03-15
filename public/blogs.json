@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/Xb9TdSQ/technology-communication-icons-symbols-concept.jpg",
+      "title": "The Secret Garden",
+      "author": "Alice Walker",
+      "author_img": "https://i.ibb.co/PskT9d6/IMG20230806161044-1.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 30,
+      "hashtags": ["#fiction", "#classic", "#inspirational"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/rvHTW07/Black-Minimalist-Corporate-Business-Profile-Linked-In-Banner.png",
+      "title": "Into the Wild",
+      "author": "Emily Dickinson",
+      "author_img": "https://i.ibb.co/PskT9d6/IMG20230806161044-1.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 45,
+      "hashtags": ["#adventure", "#biography", "#nature"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/QDSB0QM/toy-bricks-table.jpg",
+      "title": "The Alchemist",
+      "author": "Harper Lee",
+      "author_img": "https://i.ibb.co/PskT9d6/IMG20230806161044-1.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 35,
+      "hashtags": ["#philosophy", "#spiritual", "#journey"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/Hzp11kH/online-blog.jpg",
+      "title": "Pride and Prejudice",
+      "author": "J.K. Rowling",
+      "author_img": "https://i.ibb.co/PskT9d6/IMG20230806161044-1.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 50,
+      "hashtags": ["#romance", "#classic", "#society"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/WPrvL6C/information-articles-blogging-device-screen.jpg",
+      "title": "The Great Gatsby",
+      "author": "Mark Twain",
+      "author_img": "https://i.ibb.co/PskT9d6/IMG20230806161044-1.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 40,
+      "hashtags": ["#literature", "#american", "#tragedy"]
+    }
+  ]
+  
